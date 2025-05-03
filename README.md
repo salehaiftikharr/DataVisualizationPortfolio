@@ -21,23 +21,27 @@ To learn more about me, you can visit my [instagram](https://www.instagram.com/s
 
 ---
 
-## Project 1 Title
+## Programming Languages Dashboard
 
-<table align="right | left" style = "border-collapse: collapse; border: none;">
-    <tr style = "border: none;">
+<table align="left" style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
         <td style="padding: 10px; width:25%; border: none;"> 
-            <img src="./images/proj1.png"  alt="1" >
+            <img src="./images/proj1.png" alt="Dashboard screenshot">
         </td>
-        <td style="padding:10px; width:75%; border: none;" valign = "top">
+        <td style="padding:10px; width:75%; border: none;" valign="top">
             <p>
-            Briefly describe the project, the motivation, and/or the goal.
-            This project explores [brief description of the project]. I was inspired by [refer to inspiration]. The goal was to [objective of the project]. ... <a href="./Project 1/README.md">Learn more</a>
+            This dashboard explores how developers feel about different programming languages, how much those languages pay, and where they’re most used. 
+            I built it because I’ve always been curious about how technical tools shape careers and communities, and I wanted to make that data easy to understand and explore. 
+            The goal was to bring together admiration, desire, salary, popularity shifts, and industry usage in one place where others could explore the trends too.
             <br><br>
-            <i>Tools used: Python, Pandas, Plotly, Canva</i>
+            <a href="./Project 1/README.md">Learn more</a>
+            <br><br>
+            <i>Tools used: Python, Pandas, Plotly, Streamlit</i>
             </p>
         </td>
     </tr> 
 </table>
+
 
 ## Project 2 Title
 
