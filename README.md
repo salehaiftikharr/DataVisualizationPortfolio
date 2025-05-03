@@ -65,19 +65,24 @@ To learn more about me, you can visit my [instagram](https://www.instagram.com/s
 </table>
 
 
-## Project 3 Title
-<table align="right | left" style = "border-collapse: collapse; border: none;">
-    <tr style = "border: none;">
+## Wage Gaps by Industry — Remix Visualization
+
+<table align="left" style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
         <td style="padding: 10px; width:25%; border: none;"> 
-            <img src="./Images/proj3.png" alt="3" >
+            <img src="./images/proj3.png" alt="Wage comparison visualization">
         </td>
-        <td style="padding:10px; width:75%; border: none;" valign = "top">
+        <td style="padding:10px; width:75%; border: none;" valign="top">
             <p>
-            Briefly describe Project 3 <br><br>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum... <a href="./Project 3/README.md">Learn more</a>
+            This was a recreate-and-remix project where I redesigned a wage ranking chart from Data USA. The original graphic listed job titles by income, but I wanted to make it easier to compare industries and highlight wage differences more clearly.
             <br><br>
-            <i>Tools used: Canva, Recraft</i>
+            In my version, I grouped occupations by industry and color-coded them for visual clarity. I also showed how each job’s salary compares to the overall median wage, which gives a better sense of which roles are underperforming or overperforming financially. This remix was all about making the data more intuitive, informative, and accessible to a broader audience.
+            <br><br>
+            <a href="./Project 3/README.md">Learn more</a>
+            <br><br>
+            <i>Tools used: Python, Pandas, Matplotlib</i>
             </p>
         </td>
     </tr> 
 </table>
+
