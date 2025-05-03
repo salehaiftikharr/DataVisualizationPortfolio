@@ -43,23 +43,27 @@ To learn more about me, you can visit my [instagram](https://www.instagram.com/s
 </table>
 
 
-## Project 2 Title
+## Tech Needs More Women — Infographic
 
-<table align="right | left" style = "border-collapse: collapse; border: none;">
-    <tr style = "border: none;">
+<table align="left" style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
         <td style="padding: 10px; width:25%; border: none;"> 
-            <img src="./Images/proj2.png"  alt="2" >
+            <img src="./images/proj2.png" alt="Infographic preview">
         </td>
-        <td style="padding:10px; width:75%; border: none;" valign = "top">
+        <td style="padding:10px; width:75%; border: none;" valign="top">
             <p>
-            Briefly describe Project 2<br><br>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum...<a href="./Project 2/README.md">Learn more</a>
+            This is an infographic I created to highlight the gender disparities in tech — from wage gaps to promotion barriers to representation in computer science programs. 
+            Being a woman in tech myself, this project means a lot to me. I’ve experienced some of these challenges firsthand, and I wanted to create something that could help others understand them at a glance. 
+            It was my way of combining data, design, and advocacy to tell a story that needs more attention.
             <br><br>
-            <i>Tools used: Python, Pandas, Matplotlib</i>
+            <a href="./Project 2/README.md">Learn more</a>
+            <br><br>
+            <i>Tools used: Python, Pandas, Matplotlib, Canva, Recraft.ai</i>
             </p>
         </td>
     </tr> 
 </table>
+
 
 ## Project 3 Title
 <table align="right | left" style = "border-collapse: collapse; border: none;">
