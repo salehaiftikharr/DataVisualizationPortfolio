@@ -26,7 +26,7 @@ To learn more about me, you can visit my [instagram](https://www.instagram.com/s
 <table align="right | left" style = "border-collapse: collapse; border: none;">
     <tr style = "border: none;">
         <td style="padding: 10px; width:25%; border: none;"> 
-            <img src="./Images/proj1.png"  alt="1" >
+            <img src="./images/proj1.png"  alt="1" >
         </td>
         <td style="padding:10px; width:75%; border: none;" valign = "top">
             <p>
