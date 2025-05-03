@@ -1,13 +1,22 @@
 # Data Visualization Portfolio
 
 ## About Me
-Use this space to introduce yourself to an audience (think about your target audience). Tell them about who you are, your skills, your strengths, your interests, and career aspirations.
+Hey, I’m Saleha :)
+I am currently studying Computer Science with minors in Data Science and Math, but beyond the assignments and code, I am just someone who loves making things. Whether it’s a warm loaf of banana bread or a dashboard that brings a dataset to life, I enjoy creating and exploring.
+
+I really enjoy working with data because it feels like solving little mysteries. I like finding patterns, asking good questions, and turning numbers into stories. I also love building things that people can actually use, which is why I am hoping to become a software engineer one day. I am especially interested in areas like AI and tools that make life a little easier or more meaningful.
+
+This past couple months, I have also been bringing one of my dream projects to life: Fuerza, a social media app built for lifters and fitness lovers to share progress, connect, and stay motivated. It’s been such a fun challenge that mixes design, backend logic, and everything in between. It reminds me why I love this work so much.
+
+When I am not coding, I am probably baking, making reels no one asked for, or thinking about tech ethics and how we can use this field for good.
+
+This portfolio is a mix of what I have been learning, building, and figuring out. Thanks for being here!!
 
 Welcome to my data visualization portfolio! Here, you'll find a collection of projects showcasing my skills in data analysis and visualization. I am passionate about turning data into meaningful insights and compelling visuals.
 
 <!--Include links to documents or sites that may be useful to your target audience: website, LinkedIn, your cv/resume, github, a community you contribute to, etc -->
 
-To learn more about me, you can visit my [personal website](your_web_address), my [github](https://github.com/YOURACCOUNT), or read my [CV](Images/CV.pdf).
+To learn more about me, you can visit my [instagram](https://www.instagram.com/salehaa2.0/), my [github](https://github.com/salehaiftikharr), or read my [CV](Images/CV.pdf).
 
 
 ---
