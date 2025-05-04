@@ -1,6 +1,6 @@
 # Women in Tech — Infographic
 
-<img src="../images/Women-in-Tech.png" alt="Women in Tech Infographic" width="600"/>
+<img src="../images/Women-in-Tech.png" alt="Women in Tech Infographic" width="400"/>
 
 ## What is this project?
 
