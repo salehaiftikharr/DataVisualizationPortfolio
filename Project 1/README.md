@@ -34,11 +34,16 @@ I pulled data from multiple sources, including developer surveys and public wage
 
 ### Data Sources
 
-- Stack Overflow Developer Survey 2024
-- top_paid_programming_languages_2024.csv
-- programming_languages_desired_admired_2024.csv
-- language_popularity_2014_vs_2024.csv
-- industry_language_usage.csv
+- [Stack Overflow Developer Survey 2024 – Admired & Desired](https://survey.stackoverflow.co/2024/technology#admired-and-desired)  
+- [Statista – Most Used Programming Languages by Developer Type](https://www.statista.com/statistics/793628/worldwide-developer-survey-most-used-languages/)  
+- [DevJobsScanner – Top 10 Highest Paid Programming Languages](https://www.devjobsscanner.com/blog/top-10-highest-paid-programming-languages/)  
+- [DataUSA – Programming Salaries by Industry](https://datausa.io/profile/soc/computer-engineering-science-occupations#occupation-by-industry)  
+- [TIOBE Index – Global Programming Popularity](https://www.tiobe.com/tiobe-index/)  
+- [PYPL – Popularity of Programming Languages](https://pypl.github.io/PYPL.html)  
+- [Reddit – Emerging Programming Markets](https://www.reddit.com/r/AskProgramming/comments/17ex3lg/programming_languages_with_the_highest_labor/)  
+- [Red Global – US Tech Job Market Analysis](https://www.redglobal.com/news-blog/the-us-tech-job-market-unveiled-)  
+- [Reddit – Countries with Famous Programming Languages](https://www.reddit.com/r/dataisbeautiful/comments/vpci9j/countries_that_have_created_worldfamous/)
+
 
 ---
 
@@ -56,9 +61,3 @@ I pulled data from multiple sources, including developer surveys and public wage
 Clone the repo, install the requirements, and run:
 ```bash
 streamlit run app.py
-
-
----
-
-Let me know if you’d like a version that includes links to actual datasets or a GitHub-friendly version with relative paths!
-
