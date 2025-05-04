@@ -1,6 +1,6 @@
 # Programming Languages Popularity Tracker
 
-![Dashboard Screenshot](../images/proj1.png)
+![Dashboard Screenshot](../images/dashboard.png)
 
 ## What is this project?
 
