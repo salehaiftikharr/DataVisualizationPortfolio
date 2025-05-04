@@ -1,6 +1,6 @@
 # Women in Tech — Infographic
 
-![Women in Tech Infographic](../images/Women-in-Tech.png)
+<img src="../images/Women-in-Tech.png" alt="Women in Tech Infographic" width="600"/>
 
 ## What is this project?
 
