@@ -1,6 +1,6 @@
 # Women in Tech — Infographic
 
-![Women in Tech Infographic](Women-in-Tech.png)
+![Women in Tech Infographic](../images/Women-in-Tech.png)
 
 ## What is this project?
 
