@@ -1,0 +1,12 @@
+ID Detailed Occupation,Detailed Occupation,ID Year,Year,ID Workforce Status,Workforce Status,Average Wage,Average Wage Appx MOE,Slug Detailed Occupation,Ranking,Shape,Type,Type ID
+"291240","Surgeons",2022,"2022","true","true",381852.6224835523,23557.983972538066,"surgeons",1,"Bar","Top",1
+"291210","Physicians",2022,"2022","true","true",0,5147.69137741039,"physicians",2,"Bar",,99
+"193011","Economists",2022,"2022","true","true",153241.4037298842,17087.646490351384,"economists",15,"Bar","Neighbors",2
+"419031","Sales engineers",2022,"2022","true","true",148880.53263382535,11981.863783950792,"sales-engineers",16,"Bar","Neighbors",2
+"113021","Computer & information systems managers",2022,"2022","true","true",143483.98379787835,3051.490692664344,"computer-information-systems-managers",17,"Bar","Neighbors",2
+"151252","Software developers",2022,"2022","true","true",141138.15019791172,1882.9934101942645,"software-developers",18,"Bar","Neighbors",2
+"112022","Sales managers",2022,"2022","true","true",138026.26391740775,3952.8258807333295,"sales-managers",19,"Bar","Neighbors",2
+"172061","Computer hardware engineers",2022,"2022","true","true",135735.38840360177,10381.48356705911,"computer-hardware-engineers",20,"Bar","Neighbors",2
+"132051","Financial analysts",2022,"2022","true","true",132960.42895544038,6389.808973771533,"financial-analysts",21,"Bar","Neighbors",2
+"393031","Ushers, lobby attendants, & ticket takers",2022,"2022","true","true",0,2552.781597327433,"ushers-lobby-attendants-ticket-takers",528,"Bar",,99
+"359031","Hosts & hostesses, restaurant, lounge, & coffee shop",2022,"2022","true","true",11364.973136337394,904.264927281364,"hosts-hostesses-restaurant-lounge-coffee-shop",529,"Bar","Bottom",3
