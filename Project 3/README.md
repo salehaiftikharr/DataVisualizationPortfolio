@@ -1,6 +1,6 @@
 # Wage Comparison by Industry — Recreate & Remix
 
-![Wage Visualization](../images/proj3.png)
+![Wage Visualization](../images/rec-rem.png)
 
 ## What is this project?
 
@@ -8,7 +8,7 @@ This project is part of a recreate-and-remix exercise, where I took an existing 
 
 ## Why did I build this?
 
-The original chart was informative, but it lacked clarity when it came to comparing job roles side by side. I wanted to design something that would help people quickly see wage differences, not just in absolute terms but relative to the median wage. As someone interested in both tech and equity, I also wanted to highlight how different industries stack up — especially how certain fields consistently outperform others.
+The original chart was informative, but it lacked clarity when it came to comparing job roles side by side. I wanted to design something that would help people quickly see wage differences, not just in absolute terms but relative to the median wage. As someone interested in both tech and equity, I also wanted to highlight how different industries stack up - especially how certain fields consistently outperform others.
 
 ## How did I build it?
 
@@ -29,8 +29,6 @@ To improve readability and insight:
 - Pandas  
 - Matplotlib  
 - Seaborn  
-- Canva (for final layout polish if needed)
-
 ---
 
 ### Data Source
