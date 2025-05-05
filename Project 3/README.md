@@ -1,6 +1,6 @@
 # Wage Comparison by Industry — Recreate & Remix
 
-<img src="../images/remix.png" alt="Remix" width="200"/>
+<img src="../images/remix.png" alt="Remix" width="350"/>
 
 ## What is this project?
 
