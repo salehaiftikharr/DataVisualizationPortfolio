@@ -2,7 +2,7 @@
 
 ## About Me
 Hey, I’m Saleha :)
-I am currently studying Computer Science with minors in Data Science and Math, but beyond the assignments and code, I am just someone who loves making things. Whether it’s a warm loaf of banana bread or a dashboard that brings a dataset to life, I enjoy creating and exploring.
+I am currently studying Computer Science with minors in Data Science and Math, but beyond the assignments and code, I am just someone who loves making things. Whether it is a warm loaf of banana bread or a dashboard that brings a dataset to life, I enjoy creating and exploring.
 
 I really enjoy working with data because it feels like solving little mysteries. I like finding patterns, asking good questions, and turning numbers into stories. I also love building things that people can actually use, which is why I am hoping to become a software engineer one day. I am especially interested in areas like AI and tools that make life a little easier or more meaningful.
 
@@ -85,4 +85,3 @@ To learn more about me, you can visit my [instagram](https://www.instagram.com/s
         </td>
     </tr> 
 </table>
-
