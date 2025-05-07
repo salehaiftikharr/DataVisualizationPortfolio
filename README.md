@@ -34,7 +34,7 @@ To learn more about me, you can visit my [instagram](https://www.instagram.com/s
             I built it because I’ve always been curious about how technical tools shape careers and communities, and I wanted to make that data easy to understand and explore. 
             The goal was to bring together admiration, desire, salary, popularity shifts, and industry usage in one place where others could explore the trends too.
             <br><br>
-            <a href="./Project%201/README.md">Learn more</a>
+            <a href="./Project 1/README.md">Learn more</a>
             <br><br>
             <i>Tools used: Python, Pandas, Plotly, Streamlit</i>
             </p>
