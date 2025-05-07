@@ -16,7 +16,7 @@ Welcome to my data visualization portfolio! Here, you'll find a collection of pr
 
 <!--Include links to documents or sites that may be useful to your target audience: website, LinkedIn, your cv/resume, github, a community you contribute to, etc -->
 
-To learn more about me, you can visit my [instagram](https://www.instagram.com/salehaa2.0/), my [github](https://github.com/salehaiftikharr), or read my [CV](images/CV.pdf).
+To learn more about me, you can visit my [instagram](https://www.instagram.com/salehaa2.0/), my [baking blog](https://www.instagram.com/thecupcakenationn/), my [github](https://github.com/salehaiftikharr), or read my [CV](images/CV.pdf).
 
 
 ---
